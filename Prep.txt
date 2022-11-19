@@ -1,0 +1,20 @@
+1. Go through the notes folder
+2. DBMS Keys
+	https://www.youtube.com/watch?v=p3yJZH8_bsc
+3. https://www.tutorialspoint.com/Types-of-dependencies-in-DBMS
+4. https://www.interviewbit.com/sql-interview-questions/
+	various forms of Normalization
+		2NF - https://www.youtube.com/watch?v=R7UblSu4744	
+			Studytonight(youtube)
+		3NF - https://www.youtube.com/watch?v=aAx_JoEDXQA&list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3&index=4
+			Studytonight(youtube)
+		BCNG - https://www.youtube.com/watch?v=NNjUhvvwOrk&list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3&index=5
+			Studytonight(youtube)
+4. Sharding
+	https://devopedia.org/database-sharding
+	https://www.youtube.com/watch?v=5faMjKuB9bc&t=1s
+5. OLAP VS OLTP 
+	https://techdifferences.com/difference-between-oltp-and-olap.html
+
+Trigger
+Stored Procedure
